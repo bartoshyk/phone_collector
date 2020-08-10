@@ -1,0 +1,21 @@
+{
+  "name": "collect_phones",
+  "version": "",
+  "description": "",
+  "main": "collect_phones.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "server": "^1.0.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadiia Bartoshyk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bartoshyk"
+  },
+  "license": ""
+}
