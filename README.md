@@ -5,4 +5,4 @@ step 1
 install dependencies: npm install
 
 step 2 
-server start: node collect_phones.js
+server start: node server.js
