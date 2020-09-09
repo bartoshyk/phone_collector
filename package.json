@@ -2,7 +2,7 @@
   "name": "collect_phones",
   "version": "",
   "description": "",
-  "main": "collect_phones.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
     "request": "^2.88.2",
